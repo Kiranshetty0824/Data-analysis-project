@@ -51,7 +51,7 @@ df['Revenue'] = df['Quantity'] * df['Price']
 
 # 1. Summary statistics
 print("\nSummary Statistics:")
-print(df.describe())
+print(df.describe())               
 
 # 2. Total revenue by category
 revenue_by_cat = df.groupby('Category')['Revenue'].sum()
