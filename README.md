@@ -8,7 +8,6 @@ Price: Price per unit
 Revenue: Calculated as Quantity × Price
 
 
-
 Summary statistics (mean, max, min, etc.)
 Total revenue by category
 Top 5 best-selling products
