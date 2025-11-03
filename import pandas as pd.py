@@ -53,3 +53,8 @@ plt.title('Daily Revenue Trend')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+
+
+ # this is the python code 
+ # saved as pandas as pd.py
