@@ -18,6 +18,7 @@ data = {
     'Product': np.random.choice(products, 100),
 }
 
+
 df = pd.DataFrame(data)
 df['Category'] = df['Product'].map(categories)
 df['Quantity'] = np.random.randint(1, 10, size=100)
@@ -56,7 +57,6 @@ plt.show()
 
 
 
-
-
+# python code 
  # this is the python code 
  # saved as pandas as pd.py
