@@ -13,6 +13,7 @@ Total revenue by category
 Top 5 best-selling products
 Revenue trend over time (line chart)
 
+
 code ---
 
 import pandas as pd
