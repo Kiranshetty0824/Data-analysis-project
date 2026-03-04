@@ -25,6 +25,10 @@ import seaborn as sns
 # Set up visualization
 sns.set(style="whitegrid")
 
+
+
+
+
 # Generate sample data
 np.random.seed(42)
 dates = pd.date_range(start="2024-01-01", periods=100)
