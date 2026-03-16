@@ -2,7 +2,7 @@
 
 Date: Date of transaction
 Product: Product sold
-Category: Product category
+Category: Product category 
 Quantity: Number of units sold 
 Price: Price per unit
 Revenue: Calculated as Quantity × Price
