@@ -18,8 +18,6 @@ data = {
     'Date': np.random.choice(dates, 100),
     'Product': np.random.choice(products, 100),
 }
-
-
     
 df = pd.DataFrame(data)
 df['Category'] = df['Product'].map(categories)
