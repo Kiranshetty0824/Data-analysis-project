@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-
 # Set up visualization
 sns.set(style="whitegrid")
 
