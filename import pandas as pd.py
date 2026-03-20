@@ -22,9 +22,6 @@ data = {
 
 
     
-
-
-
 df = pd.DataFrame(data)
 df['Category'] = df['Product'].map(categories)
 df['Quantity'] = np.random.randint(1, 10, size=100)
