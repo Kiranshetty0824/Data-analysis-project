@@ -1,4 +1,4 @@
-       # Data-analysis-project
+        # Data-analysis-project
 
 Date: Date of transaction
 Product: Product sold
